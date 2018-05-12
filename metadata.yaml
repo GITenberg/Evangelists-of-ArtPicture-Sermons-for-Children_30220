@@ -1,0 +1,26 @@
+_repo: Evangelists-of-ArtPicture-Sermons-for-Children_30220
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30220-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Patrick, James
+    gutenberg_agent_id: '34692'
+    url: http://www.gutenberg.org/2009/agents/34692
+description: ''
+gutenberg_issued: '2009-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30220'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s sermons'
+- !lcsh 'Christian art and symbolism -- Juvenile literature'
+- !lcsh 'Sermons, American'
+- !lcc 'BV'
+title: 'Evangelists of Art: Picture-Sermons for Children'
+url: http://www.gutenberg.org/ebooks/30220
